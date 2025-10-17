@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment
+.venv
+venv/
+ENV/
+
+# Downloaded and generated data from getdata.py
+data/
