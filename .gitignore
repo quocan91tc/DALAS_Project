@@ -8,3 +8,4 @@ ENV/
 
 # Downloaded and generated data from getdata.py
 data/
+gemini_api_key.py
